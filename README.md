@@ -1,5 +1,4 @@
 ## Table of Contents
-* [Table of Contents](#TableOfContents)
 * [Hello_CircuitPython](#Hello_CircuitPython)
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_DistanceSensor](#CircuitPython_DistanceSensor)
@@ -7,6 +6,10 @@
 * [MotorControl](#MotorControl)
 ---
 ## Hello_CircuitPython
+
+### Planning
+
+
 
 ### Description & Code
 This assignment was our intro assignment to circuitpython. Our job was to get the neopixel to blink and change colors. 
@@ -31,15 +34,13 @@ while True:
 ### Evidence
 
 
-![Untitled_ Sep 27, 2022 3_18 PM (1)](https://user-images.githubusercontent.com/112961430/193047596-eea5442e-cbe6-4e91-b174-e436803c214c.gif)
 
 
 
-Image credit goes to [Kaz S](https://github.com/kshinoz98/CircuitPython#Hello_CircuitPython)
 
 
 ### Wiring
-There wasn't any wiring required in this assignment.
+
 
 ### Reflection
 This assignment took longer than needed, because of the initial importing of functions into cirucuit python. I also had trouble using the serial monitor as well.
