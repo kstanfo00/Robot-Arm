@@ -11,10 +11,8 @@
 https://docs.google.com/document/d/1FgvvbSDBoRJI06xUQpMpJOgnmd9DKe9SlUZrj4KgW3Q/edit?usp=sharing
 ### Materials
 https://docs.google.com/document/d/1cFgkYVdgJ_m4PIdiOyneVgmMjbTtrUyzixZdNO9I8P0/edit?usp=sharing
-
 ### Time Management/Problems Faced
-
-
+https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/edit?usp=sharing
 ### Code
 This assignment was our intro assignment to circuitpython. Our job was to get the neopixel to blink and change colors. 
 
