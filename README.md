@@ -30,6 +30,7 @@ https://docs.google.com/document/d/1cFgkYVdgJ_m4PIdiOyneVgmMjbTtrUyzixZdNO9I8P0/
 ![5467y65787](https://user-images.githubusercontent.com/112961430/222463210-8f6b1764-72b2-4b78-ad56-8fe2889d4983.PNG)
 ![476568678u5](https://user-images.githubusercontent.com/112961430/222463212-07f4f318-cc37-4857-b024-f5ae15bf86a8.PNG)
 ![7878576](https://user-images.githubusercontent.com/112961430/222463214-2cb44a72-bcf5-4f42-a433-8850f2a95108.PNG)
+![576876458768](https://user-images.githubusercontent.com/112961430/222464003-c75e0335-87b6-447d-b7e4-5377f38e15f6.PNG)
 
 ### Time Management/Problems Faced
 https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/edit?usp=sharing
