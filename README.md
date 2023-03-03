@@ -18,7 +18,7 @@ https://docs.google.com/document/d/1cFgkYVdgJ_m4PIdiOyneVgmMjbTtrUyzixZdNO9I8P0/
 ### CAD
 ![3234](https://user-images.githubusercontent.com/112961430/222746515-05ee210f-e042-45a0-9256-c03e15a3c6b3.PNG)<figcaption>top view of airplane holder. The servo pinches the airplane with another 3d print to hold it in place. </figcaption>
 ![657887](https://user-images.githubusercontent.com/112961430/222463198-fb8b333b-57bc-4cdf-a789-d397bb074a45.PNG)<figcaption>Top view of bottom box. Inside, there is a arduino, a battery pack, and a switch to turn it on and off. </figcaption>
-![876976](https://user-images.githubusercontent.com/112961430/222463201-f148bd1c-36ce-49c3-8d6c-6265588da07b.PNG)
+![876976](https://user-images.githubusercontent.com/112961430/222463201-f148bd1c-36ce-49c3-8d6c-6265588da07b.PNG)<figcaption> Bottom View of whole assembly. </figcaption>
 ![554](https://user-images.githubusercontent.com/112961430/222463202-5bcd57bd-71c9-4dd1-bbce-8b922d0357a9.PNG)
 ![1232132131231245435t4355rt](https://user-images.githubusercontent.com/112961430/222463204-1b2e2286-ba9e-44f2-b01a-da15168b5c7c.PNG)
 ![68799](https://user-images.githubusercontent.com/112961430/222463205-62a55634-0c3e-42bd-a480-79c61538a5ad.PNG)
