@@ -16,7 +16,7 @@ https://docs.google.com/document/d/1cFgkYVdgJ_m4PIdiOyneVgmMjbTtrUyzixZdNO9I8P0/
 ### Code 
 
 ### CAD
-![3234](https://user-images.githubusercontent.com/112961430/222746515-05ee210f-e042-45a0-9256-c03e15a3c6b3.PNG)<figcaption>top view of airplane holder </figcaption>
+![3234](https://user-images.githubusercontent.com/112961430/222746515-05ee210f-e042-45a0-9256-c03e15a3c6b3.PNG)<figcaption>top view of airplane holder. The servo pinches the airplane with another 3d print to hold it in place. </figcaption>
 ![657887](https://user-images.githubusercontent.com/112961430/222463198-fb8b333b-57bc-4cdf-a789-d397bb074a45.PNG)
 ![876976](https://user-images.githubusercontent.com/112961430/222463201-f148bd1c-36ce-49c3-8d6c-6265588da07b.PNG)
 ![554](https://user-images.githubusercontent.com/112961430/222463202-5bcd57bd-71c9-4dd1-bbce-8b922d0357a9.PNG)
