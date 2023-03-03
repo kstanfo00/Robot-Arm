@@ -15,9 +15,7 @@ https://docs.google.com/document/d/1cFgkYVdgJ_m4PIdiOyneVgmMjbTtrUyzixZdNO9I8P0/
 
 ### Code 
 
-### CAD 
-
-### Photos/Videos
+### CAD
 ![234354435](https://user-images.githubusercontent.com/112961430/222463196-5600b839-74cc-4a5d-97b1-7707e896218a.PNG)
 ![657887](https://user-images.githubusercontent.com/112961430/222463198-fb8b333b-57bc-4cdf-a789-d397bb074a45.PNG)
 ![876976](https://user-images.githubusercontent.com/112961430/222463201-f148bd1c-36ce-49c3-8d6c-6265588da07b.PNG)
@@ -31,6 +29,8 @@ https://docs.google.com/document/d/1cFgkYVdgJ_m4PIdiOyneVgmMjbTtrUyzixZdNO9I8P0/
 ![476568678u5](https://user-images.githubusercontent.com/112961430/222463212-07f4f318-cc37-4857-b024-f5ae15bf86a8.PNG)
 ![7878576](https://user-images.githubusercontent.com/112961430/222463214-2cb44a72-bcf5-4f42-a433-8850f2a95108.PNG)
 ![576876458768](https://user-images.githubusercontent.com/112961430/222464003-c75e0335-87b6-447d-b7e4-5377f38e15f6.PNG)
+
+### Pictures/Videos
 
 ### Time Management/Problems Faced
 https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/edit?usp=sharing
