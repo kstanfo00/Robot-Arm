@@ -25,7 +25,6 @@ https://docs.google.com/document/d/1cFgkYVdgJ_m4PIdiOyneVgmMjbTtrUyzixZdNO9I8P0/
 ![2342345](https://user-images.githubusercontent.com/112961430/222463209-a2ff7266-5d67-4487-8ef0-0efa0e2df4bb.PNG)<figcaption> side view of gear box.</figcaption>
 ![23423423434](https://user-images.githubusercontent.com/112961430/222463208-98fe985c-a12d-4681-823b-539941324d4d.PNG)<figcaption> top view of gear box.</figcaption>
 ![5467y65787](https://user-images.githubusercontent.com/112961430/222463210-8f6b1764-72b2-4b78-ad56-8fe2889d4983.PNG)<figcaption> zoomed in view of bottom box. </figcaption>
-![576876458768](https://user-images.githubusercontent.com/112961430/222464003-c75e0335-87b6-447d-b7e4-5377f38e15f6.PNG)
 ![547](https://user-images.githubusercontent.com/112961430/223136519-94e0dfbc-802c-46da-b555-66ef68711a05.PNG)<figcaption> side view of arm. </figcaption>
 
 
