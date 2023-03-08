@@ -38,5 +38,4 @@ https://docs.google.com/document/d/1cFgkYVdgJ_m4PIdiOyneVgmMjbTtrUyzixZdNO9I8P0/
 https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/edit?usp=sharing
 
 ### Reflection
-Since this assignment was a long term assignment, we had less short term stress and we were very unproductive sometimes. 
-
+Klei: Since this assignment was a long term assignment, we had less short term stress and we were very unproductive at times. I have learned to focus more on assignments because of this project, and to put an emphasis on meeting our deadlines. The thing I struggled with the most was cad. One way I struggled was matching our designs and measurements to come to life in cad. I also learned a lot about communication skills, because there were times where me and grant weren't on the same page. If I could go back in time to when we started the project, I probably wouldn't have changed much about it. We definetly didn't pick the hardest project, but it still challenged and taught us valuable skills. 
