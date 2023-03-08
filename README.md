@@ -12,6 +12,7 @@ https://docs.google.com/document/d/1FgvvbSDBoRJI06xUQpMpJOgnmd9DKe9SlUZrj4KgW3Q/
 ### Materials
 https://docs.google.com/document/d/1cFgkYVdgJ_m4PIdiOyneVgmMjbTtrUyzixZdNO9I8P0/edit?usp=sharing
 ### Wiring 
+![3676](https://user-images.githubusercontent.com/112961430/223809378-427893e8-c7b1-4b99-b90b-6442d20fbf80.PNG)
 
 ### Code 
 
