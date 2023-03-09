@@ -33,7 +33,7 @@ https://docs.google.com/document/d/1cFgkYVdgJ_m4PIdiOyneVgmMjbTtrUyzixZdNO9I8P0/
 
 ### Pictures/Videos
 
-### Time Management/Problems Faced
+### Time Management
 https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/edit?usp=sharing
 
 ### Reflection
