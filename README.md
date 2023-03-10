@@ -28,12 +28,12 @@ https://docs.google.com/document/d/1cFgkYVdgJ_m4PIdiOyneVgmMjbTtrUyzixZdNO9I8P0/
 
 
 ### Pictures/Videos
-![42BAD772-32FD-41C6-A917-4AA35D64EBAF](https://user-images.githubusercontent.com/112961430/224341026-630ad833-c4c9-413c-bbee-7db91a99aa38.jpeg)<figcaption>top view of airplane holder. The servo pinches the airplane with another 3d print to hold it in place. </figcaption>
-![8F40AB9D-BC8D-4E75-8142-6443A6286FED](https://user-images.githubusercontent.com/112961430/224340980-d9e7a9f8-decb-4365-b0de-2cfb6bbd580b.jpeg)
-![AB0DFAAB-8E44-458C-834C-823208CFDD24](https://user-images.githubusercontent.com/112961430/224340988-ff807781-a5f4-47a0-a124-e57955d9ac6a.jpeg)
-![43679D8F-7B5D-4E61-A660-263C12F43E21](https://user-images.githubusercontent.com/112961430/224340997-94a89b7b-ba46-43f6-ac6c-3470831e6f78.jpeg)
-![DB63DE66-ED4C-41AF-A20D-F33E80ED3A5F](https://user-images.githubusercontent.com/112961430/224341052-c560f472-c529-4494-a47d-4f968f58772f.jpeg)
-![DF3CA542-0020-49FE-8FC3-2B6618059901](https://user-images.githubusercontent.com/112961430/224340969-6402c6ef-62de-4167-a9b4-bb5990ffc865.jpeg)
+![42BAD772-32FD-41C6-A917-4AA35D64EBAF](https://user-images.githubusercontent.com/112961430/224341026-630ad833-c4c9-413c-bbee-7db91a99aa38.jpeg)<figcaption>Side view of the Robot</figcaption>
+![8F40AB9D-BC8D-4E75-8142-6443A6286FED](https://user-images.githubusercontent.com/112961430/224340980-d9e7a9f8-decb-4365-b0de-2cfb6bbd580b.jpeg)<figcaption>Inside view of the gearbox</figcaption>
+![AB0DFAAB-8E44-458C-834C-823208CFDD24](https://user-images.githubusercontent.com/112961430/224340988-ff807781-a5f4-47a0-a124-e57955d9ac6a.jpeg)<figcaption>Another side view of the robot arm</figcaption>
+![43679D8F-7B5D-4E61-A660-263C12F43E21](https://user-images.githubusercontent.com/112961430/224340997-94a89b7b-ba46-43f6-ac6c-3470831e6f78.jpeg)<figcaption>View of the claw at the top of the robot inspired by Jakob Weder</figcaption>
+![DB63DE66-ED4C-41AF-A20D-F33E80ED3A5F](https://user-images.githubusercontent.com/112961430/224341052-c560f472-c529-4494-a47d-4f968f58772f.jpeg)<figcaption>Standard view from the edge with the arm up</figcaption>
+![DF3CA542-0020-49FE-8FC3-2B6618059901](https://user-images.githubusercontent.com/112961430/224340969-6402c6ef-62de-4167-a9b4-bb5990ffc865.jpeg)<figcaption>Inside view of all of the perfectly neat wiring</figcaption>
 
 https://user-images.githubusercontent.com/112961430/224340955-807e34f1-fa5b-4146-97f2-b742e5cb3454.MOV
 
