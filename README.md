@@ -21,7 +21,7 @@ https://docs.google.com/document/d/1cFgkYVdgJ_m4PIdiOyneVgmMjbTtrUyzixZdNO9I8P0/
 ![68799](https://user-images.githubusercontent.com/112961430/222463205-62a55634-0c3e-42bd-a480-79c61538a5ad.PNG)<figcaption> Bottom View of box. Battery pack is facing down to make it easy to switch out batteries. Holes are there to screw in battery pack and arduino. </figcaption>
 ![43432t](https://user-images.githubusercontent.com/112961430/222463206-11517aca-bd37-45bf-a0e9-e25133470c9a.PNG)<figcaption> zoomed in view of bottom box. </figcaption>
 ![2342345](https://user-images.githubusercontent.com/112961430/222463209-a2ff7266-5d67-4487-8ef0-0efa0e2df4bb.PNG)<figcaption> side view of gear box.</figcaption>
-![5467y65787](https://user-images.githubusercontent.com/112961430/222463210-8f6b1764-72b2-4b78-ad56-8fe2889d4983.PNG)<figcaption> zoomed in view of bottom box. </figcaption>
+![5467y65787](https://user-images.githubusercontent.com/112961430/222463210-8f6b1764-72b2-4b78-ad56-8fe2889d4983.PNG)<figcaption> isometric view of arm </figcaption>
 ![547](https://user-images.githubusercontent.com/112961430/223136519-94e0dfbc-802c-46da-b555-66ef68711a05.PNG)<figcaption> side view of arm. </figcaption>
 ![4576](https://user-images.githubusercontent.com/112961430/223141934-f431f907-46a8-4320-82ae-70691d821756.PNG)<figcaption> inside view of gearbox. </figcaption>
 ![576u](https://user-images.githubusercontent.com/112961430/223141935-5290896c-7c5b-40ea-bfeb-79299d71923e.PNG)<figcaption> top view of gearbox. </figcaption>
