@@ -41,7 +41,7 @@ https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/
 ### Reflection
 First of all, our project was technically a success because at the beginning, in November, we created the success statement which was “The arm will be able to throw the plane at least 5 feet.” and we technically completed it by throwing from the hallway above the lab down into it and traveling over 5 feet. Does that mean that we are satisfied with our final product? Of course not! We got saved by the grace of our past selves and were completely lucky that we made our success statement what it was. Our project had quite a few flaws, but so we don’t get too depressed, I’ll go over the better aspects first. 
 Good Stuff:
-The code worked completely well and did what we wanted.
+-The code worked completely well and did what we wanted.
 The claw that held the airplane in place also worked pretty flawlessly even though we borrowed the inspiration from Jakob Weder. 
 The onshape was mostly solid except for the fact that everything broke at the end. 
 It was a creative idea that had lots of potential.
