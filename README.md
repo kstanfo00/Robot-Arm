@@ -43,14 +43,20 @@ First of all, our project was technically a success because at the beginning, in
 
 Good Stuff:
 -The code worked completely well and did what we wanted.
+
 -The claw that held the airplane in place also worked pretty flawlessly even though we borrowed the inspiration from Jakob Weder. 
+
 -The onshape was mostly solid except for the fact that everything broke at the end. 
+
 -It was a creative idea that had lots of potential.
 
 Bad stuff:
 -Our main problem was the mechanics. The servos were not powerful enough to lift our arm even with 2 of them, one on either side.
+
 -The arm might have been too heavy, mostly because of the servo on top.
+
 -The other problem was the friction caused by the gears which made it difficult to start the raising. If we gave the robot arm a bit of a boost, it would raise, but we would prefer that to not be the case. 
+
 -Lastly, we chose the wrong gear ratio. We geared down to get more speed, but that sacrificed torque which was a problem. Looking back, we should have just stayed with a 1:1 gear ratio.
 
 Grant: If I did this project again, I would spend at least another week on testing and prototyping to see if the project was more plausible before going on to onshape and code. I now see how valuable the planning time is and if we had planned gear ratios correctly, we could have made a much better project.
