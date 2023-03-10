@@ -1,11 +1,5 @@
-## Table of Contents
-* [Hello_CircuitPython](#Hello_CircuitPython)
-* [CircuitPython_Servo](#CircuitPython_Servo)
-* [CircuitPython_DistanceSensor](#CircuitPython_DistanceSensor)
-* [CircuitPython_LCD](#CircuitPython_LCD)
-* [MotorControl](#MotorControl)
----
-## Hello_CircuitPython
+### Robot Arm Project By Klei and Grant
+![DB63DE66-ED4C-41AF-A20D-F33E80ED3A5F](https://user-images.githubusercontent.com/112961430/224341052-c560f472-c529-4494-a47d-4f968f58772f.jpeg)
 
 ### Planning
 https://docs.google.com/document/d/1FgvvbSDBoRJI06xUQpMpJOgnmd9DKe9SlUZrj4KgW3Q/edit?usp=sharing
@@ -39,12 +33,8 @@ https://docs.google.com/document/d/1cFgkYVdgJ_m4PIdiOyneVgmMjbTtrUyzixZdNO9I8P0/
 ![AB0DFAAB-8E44-458C-834C-823208CFDD24](https://user-images.githubusercontent.com/112961430/224340988-ff807781-a5f4-47a0-a124-e57955d9ac6a.jpeg)
 ![43679D8F-7B5D-4E61-A660-263C12F43E21](https://user-images.githubusercontent.com/112961430/224340997-94a89b7b-ba46-43f6-ac6c-3470831e6f78.jpeg)
 ![DB63DE66-ED4C-41AF-A20D-F33E80ED3A5F](https://user-images.githubusercontent.com/112961430/224341052-c560f472-c529-4494-a47d-4f968f58772f.jpeg)
-
-![96D78194-B7F3-40EB-9808-15A9549C5FEE](https://user-images.githubusercontent.com/112961430/224341003-a3e0cf8f-5f6a-46e2-9f71-a83fbea992f5.jpeg)
 ![42BAD772-32FD-41C6-A917-4AA35D64EBAF](https://user-images.githubusercontent.com/112961430/224341026-630ad833-c4c9-413c-bbee-7db91a99aa38.jpeg)
-
 https://user-images.githubusercontent.com/112961430/224340955-807e34f1-fa5b-4146-97f2-b742e5cb3454.MOV
-
 
 ### Time Management
 https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/edit?usp=sharing
