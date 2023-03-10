@@ -53,7 +53,6 @@ Bad stuff:
 -The other problem was the friction caused by the gears which made it difficult to start the raising. If we gave the robot arm a bit of a boost, it would raise, but we would prefer that to not be the case. 
 -Lastly, we chose the wrong gear ratio. We geared down to get more speed, but that sacrificed torque which was a problem. Looking back, we should have just stayed with a 1:1 gear ratio.
 
-Reflection:
 Grant: If I did this project again, I would spend at least another week on testing and prototyping to see if the project was more plausible before going on to onshape and code. I now see how valuable the planning time is and if we had planned gear ratios correctly, we could have made a much better project.
 
 Klei: Since this assignment was a long term assignment, we had less short term stress and we were very unproductive at times. I have learned to focus more on assignments because of this project, and to put an emphasis on meeting our deadlines. The thing I struggled with the most was cad. One way I struggled was matching our designs and measurements to come to life in cad. I also learned a lot about communication skills, because there were times where me and grant weren't on the same page. If I could go back in time to when we started the project, I probably wouldn't have changed much about it. We definetly didn't pick the hardest project, but it still challenged and taught us valuable skills. 
