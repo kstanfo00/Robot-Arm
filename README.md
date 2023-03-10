@@ -39,4 +39,17 @@ https://docs.google.com/document/d/1cFgkYVdgJ_m4PIdiOyneVgmMjbTtrUyzixZdNO9I8P0/
 https://docs.google.com/document/d/1CdptpyJqh2Pm-v1EEjkJoalSwdlUqXYwMQoneZT_n74/edit?usp=sharing
 
 ### Reflection
+First of all, our project was technically a success because at the beginning, in November, we created the success statement which was “The arm will be able to throw the plane at least 5 feet.” and we technically completed it by throwing from the hallway above the lab down into it and traveling over 5 feet. Does that mean that we are satisfied with our final product? Of course not! We got saved by the grace of our past selves and were completely lucky that we made our success statement what it was. Our project had quite a few flaws, but so we don’t get too depressed, I’ll go over the better aspects first. 
+Good Stuff:
+The code worked completely well and did what we wanted.
+The claw that held the airplane in place also worked pretty flawlessly even though we borrowed the inspiration from Jakob Weder. 
+The onshape was mostly solid except for the fact that everything broke at the end. 
+It was a creative idea that had lots of potential.
+Bad stuff:
+Our main problem was the mechanics. The servos were not powerful enough to lift our arm even with 2 of them, one on either side.
+The arm might have been too heavy, mostly because of the servo on top.
+The other problem was the friction caused by the gears which made it difficult to start the raising. If we gave the robot arm a bit of a boost, it would raise, but we would prefer that to not be the case. 
+Lastly, we chose the wrong gear ratio. We geared down to get more speed, but that sacrificed torque which was a problem. Looking back, we should have just stayed with a 1:1 gear ratio.
+Reflection:
+Grant: If I did this project again, I would spend at least another week on testing and prototyping to see if the project was more plausible before going on to onshape and code. I now see how valuable the planning time is and if we had planned gear ratios correctly, we could have made a much better project.
 Klei: Since this assignment was a long term assignment, we had less short term stress and we were very unproductive at times. I have learned to focus more on assignments because of this project, and to put an emphasis on meeting our deadlines. The thing I struggled with the most was cad. One way I struggled was matching our designs and measurements to come to life in cad. I also learned a lot about communication skills, because there were times where me and grant weren't on the same page. If I could go back in time to when we started the project, I probably wouldn't have changed much about it. We definetly didn't pick the hardest project, but it still challenged and taught us valuable skills. 
